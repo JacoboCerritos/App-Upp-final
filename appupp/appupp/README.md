@@ -47,7 +47,7 @@ Para ejecutar una prueba, existen 2 formas, la primera es abrir el CMD colocar e
 
 * **Bryam Enrique Diaz Cruz** – *Modulo Direcciones*
 * **Jacobo Eduardo Portillo Cerritos** – *Modulo Direcciones*
-* **Kevin Edenilson Fuentes Arriaza** – *Modulo Empleados,*
+* **Kevin Edenilson Fuentes Arriaza** – *Modulo Empleados*
 * **Kenia Leticia Márquez Guevara** – *Login, Modulo Empleados*
 * **Ludwig Rolando Hernández Paz** – *Registro, Modulo Empleados* 
 
